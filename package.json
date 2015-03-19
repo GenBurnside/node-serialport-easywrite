@@ -1,0 +1,25 @@
+{
+  "name": "serialport-easywrite",
+  "version": "1.0.0",
+  "description": "Easy way to write string data to serial port",
+  "main": "easywriter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GenBurnside/node-serialport-easywrite"
+  },
+  "keywords": [
+    "serialport"
+  ],
+  "author": "Matt Hughes <matthughes.tech@gmail.com> (http://matthughes.io/)",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/GenBurnside/node-serialport-easywrite/issues"
+  },
+  "homepage": "https://github.com/GenBurnside/node-serialport-easywrite",
+  "dependencies": {
+    "serialport": "^1.6.3"
+  }
+}

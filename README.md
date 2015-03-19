@@ -1,2 +1,2 @@
-# node-serialport-easywrite
-Easy way to write string data to serial port
+#node-serialport-easywrite
+npm package to easily write string data to a serial port
